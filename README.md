@@ -1,4 +1,13 @@
-### Hi there 👋
+
+# jingzl
+
+### *a programmer, love nature and freedom, don't like rules.* 
+
+Guan Shan avenue.
+
+Wuhan Optics Valley, China
+
+![jingzl's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingzl&show_icons=true&theme=radical)
 
 <!--
 **jingzl/jingzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
